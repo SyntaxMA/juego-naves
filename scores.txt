@@ -1,0 +1,6 @@
+alan,45
+AAAA,33
+AAAA,38
+AAAA,14
+AAAA,0
+AAAA,0
